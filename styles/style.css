@@ -13,6 +13,7 @@
     line-height: 30px;
     display: flex;
     justify-content: space-between;
+    margin-top: 20px;
 }
 .web {
     height: 30px;
@@ -28,6 +29,7 @@
     width: 200px;
     height: 30px;
     display: flex;
+    margin-top: 20px;
     margin-left: 132px;
     margin-right: 544px;
 }
@@ -54,7 +56,7 @@
     color: #534D4D;
     text-align: left;
     font-size: 78px;
-    margin-top: 57px;
+    margin-top: 100px;
     font-family: 'lato';
 }
 .text {
@@ -135,11 +137,11 @@
     font-size: 22px;
     text-align: center;
     color: #fff;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
 
 }
 .first-text {
-    width: 329;
+    width: 329px;
     height: 62px;
     font-size: 16px;
     text-align: center;
